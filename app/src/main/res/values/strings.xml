@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UTS My Application</string>
+    <string-array name="Jenis_Kelamin">
+    <item>Laki Laki</item>
+    <item>Perempuan</item>
+</string-array>
+</resources>
